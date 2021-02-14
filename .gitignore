@@ -1,0 +1,4 @@
+cross-domains-app/node_modules/*
+express-api/node_modules/*
+cross-domains-app/dist/*
+express-api/dist/*
